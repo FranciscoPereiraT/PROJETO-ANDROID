@@ -143,7 +143,7 @@ main h2 {
     font-size: 0.8em;
     color: var(--cor05);
     background-image: linear-gradient(to right, var(--cor01), transparent);
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 img {
