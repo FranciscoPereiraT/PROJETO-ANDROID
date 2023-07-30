@@ -131,6 +131,7 @@ main a {
 main h1 {
     font-family: var(--fonte-android);
     font-size: 1em;
+    text-align: center;
     font-weight: normal;
     text-shadow: 3px 2px 4px rgba(0, 0, 0, 0.363);
     color: var(--cor05);
@@ -139,7 +140,6 @@ main h1 {
 main h2 {
     font-family: var(--fonte-android);
     font-weight: normal;
-    text-indent: 10px;
     color: var(--cor05);
     background-image: linear-gradient(to right, var(--cor01), transparent);
     border-radius: 20px;
