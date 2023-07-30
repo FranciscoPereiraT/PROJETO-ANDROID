@@ -132,7 +132,7 @@ main h1 {
     font-family: var(--fonte-android);
     font-size: 2em;
     font-weight: normal;
-    text-align: center;
+    
     text-shadow: 3px 2px 4px rgba(0, 0, 0, 0.363);
     color: var(--cor05);
 }
