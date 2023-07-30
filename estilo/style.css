@@ -140,7 +140,7 @@ main h1 {
 main h2 {
     font-family: var(--fonte-android);
     font-weight: normal;
-    font-size: 0.8em;
+    padding: 2px;
     color: var(--cor05);
     background-image: linear-gradient(to right, var(--cor01), transparent);
     border-radius: 10px;
